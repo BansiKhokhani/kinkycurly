@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kinkycurly/static/css/main.db935e33.css",
+    "main.js": "/kinkycurly/static/js/main.e23538b1.js",
+    "static/media/wildGrowthOilsFrontImage1.png": "/kinkycurly/static/media/wildGrowthOilsFrontImage1.cf3140319b58c31cbaa3.png",
+    "static/media/wildGrowthOilsFrontImage2.png": "/kinkycurly/static/media/wildGrowthOilsFrontImage2.c18eab82f839979e1719.png",
+    "static/media/5.jpg": "/kinkycurly/static/media/5.d37bd0d19f3f0370efe5.jpg",
+    "static/media/4.jpg": "/kinkycurly/static/media/4.62f6aebcd76eb1c69050.jpg",
+    "static/media/3.jpg": "/kinkycurly/static/media/3.6ba05be3c546d0e279c7.jpg",
+    "static/media/6.jpg": "/kinkycurly/static/media/6.42252960cd6d85732641.jpg",
+    "static/media/2.jpg": "/kinkycurly/static/media/2.e52c79f7220b235c991a.jpg",
+    "static/media/1.jpg": "/kinkycurly/static/media/1.e27916200c9c94fe640c.jpg",
+    "static/media/7.jpg": "/kinkycurly/static/media/7.5ba3a2503172ce71dbf0.jpg",
+    "index.html": "/kinkycurly/index.html",
+    "main.db935e33.css.map": "/kinkycurly/static/css/main.db935e33.css.map",
+    "main.e23538b1.js.map": "/kinkycurly/static/js/main.e23538b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db935e33.css",
+    "static/js/main.e23538b1.js"
+  ]
+}
